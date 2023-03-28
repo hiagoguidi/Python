@@ -1,1 +1,1 @@
-#  Repositorio para linguagens de programação Pyton!
+#  Repositorio para linguagens de programação Python!
